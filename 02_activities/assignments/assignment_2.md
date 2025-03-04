@@ -11,17 +11,20 @@
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
       ```
       Your answer...
+Good visualization: https://public.tableau.com/app/profile/mateusz.karmalski/viz/CountrieswiththeMostHolidaysin2024makeovermonday/Dashboard12
+Easy to identify the top 3 countries with the most holidays. It's easy to filter by a country and see the holiday count.ntries with the most holidays in 2024, shows the average, min and max. It's easy to filter by a country and see the holiday count.
 
 
+bad visualization: https://public.tableau.com/app/profile/fergus.smith/viz/FastFashionsEnvironmentalWakeUpCall/Dashboard1
 
-
+This is visually unique and appealing however, it's hard to interpret the data and have to hover over to read a lot of text and understand what the statement is. Especially the planetary boundaries diagram is very unclear
 
 
 
       ```
     - How could this data visualization have been improved?  
       ```
-      Your answer...
+      Your answer...It needs some emphasis to understand quickly what the intention of the visualization is or to at least see the data quickly do form an understanding/opinion based on the data. It would be better to decrease the amount of text and highlight the key information coming from the view.
 
 
 
